@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main ()
+big3()
 {
     int num1, num2, temp;
     
